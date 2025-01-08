@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 20px;
+    font-family: cursive;
+}
+
+header{
+    color: cadetblue;
+    text-align: center;
+    font-size: x-large;
+}
+
+main{
+    margin-left: 30%;
+    padding: 20px;
+}
